@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBBT75CSVVUWHem24U5HgnDrD0lEV9TB3uooopg6qHTOjVp5lQCGVbe5QlDXoXn+KvyMUQf3pWQfsV4YLpT1wQ==",
+  "success": true,
+  "projectFilePath": "/Users/maksimbilyk/RiderProjects/Lab_1_BackEnd/BackEnd_2024/Lab_1_BackEnd/Lab_1_BackEnd.csproj",
+  "expectedPackageFiles": [
+    "/Users/maksimbilyk/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "/Users/maksimbilyk/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/maksimbilyk/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/maksimbilyk/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/maksimbilyk/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/maksimbilyk/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/maksimbilyk/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
